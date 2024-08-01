@@ -28,5 +28,10 @@
         "timestamp": "2024-08-01T15:41:47.911584Z",
         "username": "Pippoosh",
         "message": "hi\n"
+    },
+    {
+        "timestamp": "2024-08-01T15:42:08.378006Z",
+        "username": "--",
+        "message": "Bugfix"
     }
 ]
