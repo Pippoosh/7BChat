@@ -33,5 +33,10 @@
         "timestamp": "2024-08-01T15:42:08.378006Z",
         "username": "--",
         "message": "Bugfix"
+    },
+    {
+        "timestamp": "2024-08-01T15:42:32.163771Z",
+        "username": "--",
+        "message": "Someone sent a message with enter..."
     }
 ]
