@@ -1,5 +1,7 @@
-{
-    "timestamp": "2024-08-01T15:05:01.798418Z",
-    "username": "Hola",
-    "message": "Hola"
-}
+[
+    {
+        "timestamp": "2024-08-01T15:05:01.798418Z",
+        "username": "Hola",
+        "message": "Hola"
+    }
+]
