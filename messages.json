@@ -118,5 +118,10 @@
         "timestamp": "2024-08-02T09:06:21.947Z",
         "username": "hola",
         "message": "hi\n\n\n\n\n"
+    },
+    {
+        "timestamp": "2024-08-02T09:06:34.791Z",
+        "username": "--",
+        "message": "\n\n\nhi\n\n\n\n-"
     }
 ]
