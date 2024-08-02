@@ -178,5 +178,10 @@
         "timestamp": "2024-08-02T09:25:24.489Z",
         "username": "Test",
         "message": "----"
+    },
+    {
+        "timestamp": "2024-08-02T09:27:38.300Z",
+        "username": "user1",
+        "message": "Hi"
     }
 ]
